@@ -24,5 +24,9 @@
 ### 4. 프로젝트 기간
 - 2024.11.18 ~ 2024.12.04
 
-### 5. 
+### 5. 사용한 언어
+<img src="https://img.shields.io/badge/Python-3776AB?
+          style=for-the-badge
+          &logo=Python
+          &logoColor=white"/>
 
